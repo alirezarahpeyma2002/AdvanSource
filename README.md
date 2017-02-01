@@ -86,3 +86,4 @@ tmux new-session -s script "bash steady.sh -t"
 | BOUGHT SERVER: |
 |:-----------------------|
 | `screen ./steady.sh -t` |
+;l;
